@@ -10,6 +10,10 @@ Setup to run whenever I open a Terminal window. some random cowsay to remind me 
 
 ![cowsay, ls](http://i.imgur.com/NeNtLK9.png "cowsay what")
 
+.gitconfig
+----------
+Basic gitconfig. Use vim.
+
 .vimrc
 ------
 Setup vim/mvim. Requires Vundle.
